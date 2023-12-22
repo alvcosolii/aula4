@@ -1,0 +1,25 @@
+h1{
+    color: rgb(27, 28, 29);
+    text-align: center;
+}
+.divisão1{
+    color: rgb(169, 173, 173);
+}
+header{
+    background-color: rgb(185, 185, 182);
+    text-align: center;
+}
+
+.item{
+    display: inline;
+}
+article{
+    border: 1px solid black;
+    margin: 10px;
+    
+}
+footer{
+    background-color: grey;
+    color: white;
+
+}
